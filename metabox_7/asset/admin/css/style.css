@@ -1,0 +1,15 @@
+.class{
+   border: 1px solid rgba(83, 79, 79, 0.508);
+   padding: 20px 30px;
+   border-radius: 10px;
+   background: orchid;
+   margin-bottom: 10px;
+}
+.class input{
+    padding: 7px 9px;
+
+}
+.checkbox_1{
+ /* border: 1px solid red; */
+    padding: 6px 10px;
+}
